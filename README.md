@@ -28,5 +28,11 @@ cons:
 - loud (at least on higher rpms)
 - 3D printing takes a lot of time
 
-Here is the Link to the 3D-printed parts
+Here is the Link to the 3D-printed parts:
 https://www.prusaprinters.org/prints/28154-screw-compressor
+
+Here is a video of the compressor:
+https://youtu.be/eBKuLJ2Qfj4
+
+Here are the Fusion 360 files:
+https://a360.co/34bi696
