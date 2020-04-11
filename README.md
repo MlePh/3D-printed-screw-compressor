@@ -29,10 +29,10 @@ cons:
 - 3D printing takes a lot of time
 
 Here is the Link to the 3D-printed parts:
-https://www.prusaprinters.org/prints/28154-screw-compressor
+https://www.prusaprinters.org/prints/29202-screw-compressor-rev-b-11042020
 
 Here is a video of the compressor:
-https://youtu.be/eBKuLJ2Qfj4
+https://youtu.be/tTnprEpED4w
 
 Here are the Fusion 360 files:
-https://a360.co/34bi696
+https://a360.co/3b4nH3q
